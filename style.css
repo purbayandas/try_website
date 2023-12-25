@@ -1,0 +1,46 @@
+.Container{
+    display: flex;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    justify-content: center;
+    flex-direction: row;
+
+
+}
+.heading{
+    margin: 10px;
+    text-align: center;
+    border: solid;
+    padding: 10px;
+    border-radius: 8px;
+    border-color: #751801;  
+   
+}
+.ribbon{
+    display: flex;
+    flex-direction: row;
+    padding: 40px; 
+    gap: 20px;   
+    justify-content: right;
+
+}
+.main-image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bigger{
+    font-size: x-large;
+    background-color: black;
+    color: antiquewhite;
+    border: solid;
+    border-color: aliceblue;
+    padding: 10px;
+    border-radius: 8px;
+}
+.Contact-list{
+    background-color: black;
+    color: white;
+    border: solid;
+    border-color: azure;
+    
+}
